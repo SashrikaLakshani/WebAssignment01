@@ -1,1 +1,1 @@
-# WebAssignment01
+# hotel.github.io
